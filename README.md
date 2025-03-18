@@ -1,4 +1,6 @@
-Used a BDD style automation framework with Selenium and Java to automate
+UI Automation using Selenium with Java:
+
+Used a BDD style automation framework using Cucumber with Selenium and Java to automate
 following test script.
 1. Open the website https://www.reddit.com/
 2. Perform a login
